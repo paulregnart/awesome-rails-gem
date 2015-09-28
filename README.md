@@ -163,6 +163,9 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Responders](https://github.com/plataformatec/responders) - A set of Rails responders to dry up your application.
 * [production_rails](https://github.com/ankane/production_rails) - Best practices for running Rails in production.
 
+## Security
+* [Brakeman](http://brakemanscanner.org) - Static analysis security scanner for Ruby on Rails
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
